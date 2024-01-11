@@ -5,7 +5,7 @@
 #  s.resource = 'Classes/PhotoBrowser/resource/ZLPhotoBrowser.bundle'
 
 Pod::Spec.new do |s|
-  s.name             = 'image_pickers'
+  s.name             = 'image_pickers_v2'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC

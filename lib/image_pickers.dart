@@ -23,7 +23,7 @@ enum CameraMimeType {
 
 class ImagePickers {
   static const MethodChannel _channel =
-      const MethodChannel('flutter/image_pickers');
+      const MethodChannel('flutter/image_pickers_v2');
 
   /// 返回拍摄的图片或视频的信息 Return information of the selected picture or video
   ///

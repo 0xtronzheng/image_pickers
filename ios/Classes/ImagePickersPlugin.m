@@ -25,7 +25,7 @@
 @end
 
 @implementation ImagePickersPlugin
-static NSString *const CHANNEL_NAME = @"flutter/image_pickers";
+static NSString *const CHANNEL_NAME = @"flutter/image_pickers_v2";
 
 +(void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
     FlutterMethodChannel *channel = [FlutterMethodChannel methodChannelWithName:CHANNEL_NAME
